@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "949628711442",
+    "project_id": "edini-32lak",
+    "storage_bucket": "edini-32lak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949628711442:android:4459df60210f0db4625ecb",
+        "android_client_info": {
+          "package_name": "com.divinetechs.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949628711442-k03arvv3jf8v8f6p15ba3gvn964kp1bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.quizapp",
+            "certificate_hash": "2d611ba4877847fd0d17eb0d7356467ec6ea1833"
+          }
+        },
+        {
+          "client_id": "949628711442-9il98jvv1h2fau8igaqtmh9l3h8kqkg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLZKs4DQkiJlxYXxfbg5HUSFRLMe8QRJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949628711442-9il98jvv1h2fau8igaqtmh9l3h8kqkg9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949628711442-5mjomkcgmqsq0onqb0dq8f1ufsfh6veg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.getmind.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949628711442:android:38812fa671b8ed16625ecb",
+        "android_client_info": {
+          "package_name": "com.getmind.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949628711442-9il98jvv1h2fau8igaqtmh9l3h8kqkg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLZKs4DQkiJlxYXxfbg5HUSFRLMe8QRJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949628711442-9il98jvv1h2fau8igaqtmh9l3h8kqkg9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949628711442-5mjomkcgmqsq0onqb0dq8f1ufsfh6veg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.getmind.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
